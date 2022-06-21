@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "583109906058",
+    "project_id": "dundat-1e52a",
+    "storage_bucket": "dundat-1e52a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583109906058:android:884938444fe275a34de773",
+        "android_client_info": {
+          "package_name": "com.socailapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583109906058-dp9lkppeagsuoppuqb8g6nfqv9dn545t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChR3CshSFcM1KRDl78iZho1C-Wj9Cbdy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583109906058-dp9lkppeagsuoppuqb8g6nfqv9dn545t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
